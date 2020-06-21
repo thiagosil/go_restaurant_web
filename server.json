@@ -35,7 +35,7 @@
     {
       "name": "Torresmo",
       "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food1.png",
-      "price": "5",
+      "price": "5.01",
       "description": "Crocante",
       "available": true,
       "id": 5
