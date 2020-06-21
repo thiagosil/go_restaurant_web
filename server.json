@@ -31,6 +31,22 @@
       "price": "23.90",
       "available": false,
       "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food3.png"
+    },
+    {
+      "name": "Torresmo",
+      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food1.png",
+      "price": "5",
+      "description": "Crocante",
+      "available": true,
+      "id": 5
+    },
+    {
+      "name": "Torresmo de Barriga",
+      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food1.png",
+      "price": "7.00",
+      "description": "É ruim mas é bom",
+      "available": true,
+      "id": 6
     }
   ]
 }
